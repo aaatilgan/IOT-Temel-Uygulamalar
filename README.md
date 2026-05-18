@@ -86,7 +86,7 @@ git init
 git add .
 git commit -m "Akıllı ev ESP32 Wokwi proje seti"
 git branch -M main
-git remote add origin https://github.com/KULLANICI_ADI/akilli-ev-esp32-wokwi.git
+git remote add origin https://github.com/aaatilgan/akilli-ev-esp32-wokwi.git
 git push -u origin main
 ```
 
@@ -109,7 +109,7 @@ ders materyallerinin, proje açıklamalarının veya bu materyalden türetilmiş
 çalışmaların kullanılması durumunda aşağıdaki şekilde kaynak gösterilmesi
 ahlaki ve akademik olarak beklenir:
 
-**Abdullah ATILGAN, "Akıllı Ev Otomasyon Sistemleri - ESP32 Wokwi Temel Uygulamalar Proje Seti", 2026. https://github.com/bdllhtlgn1/IOT-Temel-Uygulamalar**
+**Abdullah ATILGAN, "Akıllı Ev Otomasyon Sistemleri - ESP32 Wokwi Temel Uygulamalar Proje Seti", 2026. https://github.com/aaatilgan/IOT-Temel-Uygulamalar**
 
 Önerilen atıf biçimi:
 
